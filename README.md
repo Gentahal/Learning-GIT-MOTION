@@ -32,4 +32,4 @@ This guide covers essential Git commands to help you manage and collaborate on p
 
 ---
 
-Happy coding and happy learning with Git! 🚀
+Happy coding and Enjoy with Git! 🚀
