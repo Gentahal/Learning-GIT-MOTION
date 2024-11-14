@@ -1,5 +1,7 @@
 # Git Basics with Motion Lab
 
+Hi My name is Genta Halilintar and I'm a intern at MotionLab . I'm excited to share my knowledge with you about Git,
+
 This guide covers essential Git commands to help you manage and collaborate on projects using version control. Perfect for anyone starting with Git!
 
 ## Getting Started
@@ -32,4 +34,4 @@ This guide covers essential Git commands to help you manage and collaborate on p
 
 ---
 
-Happy coding and Enjoy with Git! 🚀
+Happy to be here and Enjoy with Git! 🚀
